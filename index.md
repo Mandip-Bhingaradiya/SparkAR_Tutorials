@@ -9,6 +9,6 @@ It is launched in 2017
 
 This is weekDays effect. Here in this effect user is now able to take selfies with week day name with different creative fonts and style. For that user just need to tab on screen to change effect style and take amazing selfy.
 
-[Tutorial-1](https://github.com/Mandip17IT009/SparkAR_Tutorials/blob/main/filter%20files/weekDays.zip)
-  [filter_demo](https://github.com/Mandip17IT009/SparkAR_Tutorials/blob/main/filter%20demo/weekDays%20filter%20demo.mp4)
+[Tutorial-1](https://github.com/Mandip17IT009/SparkAR_Tutorials/blob/gh-pages/filter%20files/weekDays.zip)
+  [filter_demo](https://github.com/Mandip17IT009/SparkAR_Tutorials/blob/gh-pages/filter%20demo/weekDays%20filter%20demo.mp4)
   [filter_link](https://www.instagram.com/ar/569697310646256)

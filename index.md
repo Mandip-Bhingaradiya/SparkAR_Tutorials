@@ -1,7 +1,7 @@
 # Welcome to SparkAR Tutorials
 
 ## Software Required: Spark AR Studio (v94)
-![GitHub Logo](https://github.com/Mandip17IT009/SparkAR_Tutorials/blob/gh-pages/filter%20demo/Spark-AR-Studio.jpg)
+![SparkAR](https://github.com/Mandip17IT009/SparkAR_Tutorials/blob/gh-pages/filter%20demo/Spark-AR-Studio.jpg)
 
 Spark AR is a studio tool from Facebook that allows us to create our own AR effects for mobile which are direct available on facebooke and instagram.
 It is launched in 2017
